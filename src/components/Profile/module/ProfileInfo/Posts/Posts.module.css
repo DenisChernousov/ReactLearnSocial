@@ -1,0 +1,37 @@
+.items{
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: transparent;
+    border: 1px solid #0073B1;
+    margin-top: 1rem;
+}
+
+.item{
+    color: #000;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+}
+.btn{
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 0.4rem;
+}
+.btn button{
+    background-color: #0073B1;
+    width: 6rem;
+    border: none;
+    padding: 0.5rem;
+    font-size: 1rem;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.text textarea{
+    border-radius: 10px;
+    border: 1px solid #0073B1;
+    resize: none;
+}

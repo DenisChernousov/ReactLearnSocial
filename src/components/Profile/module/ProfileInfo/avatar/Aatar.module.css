@@ -1,0 +1,17 @@
+.items{
+    padding: 1rem;
+    width: 95%;
+    height: 10rem;
+    border-radius: 1rem;
+    background-color: transparent;
+    border: 1px solid #0073B1;
+    margin: 0 auto;
+}
+.items p{
+    color: #FFF;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.3rem;
+    text-align: center;
+}

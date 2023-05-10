@@ -1,0 +1,30 @@
+.items{
+    padding: 1rem;
+    max-width: 90rem;
+    width: 100%;
+    border-radius: 1rem;
+    border: 1px solid #0073B1;
+    margin-right: 1rem;
+    display: grid;
+    grid-template-columns: 2fr 8fr;
+    color: #000;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.dialogs{
+    border-right: 2px solid #c1deef;
+    padding: 1rem;
+}
+.dialog{
+    padding: 0.7rem;
+}
+.active {
+    background-color: #d3ecfa;
+    border-radius: 10px ;
+}
+.messages{
+    padding: 1rem;
+}
